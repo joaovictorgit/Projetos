@@ -1,5 +1,5 @@
 # Finances
-## **Descrição**
+## :clipboard: **Descrição**
   
   Sistema de finanças desenvolvido para organizar os custos mensais do usuário. O objeto é garantir o controle no gastos do indivíduo.
 

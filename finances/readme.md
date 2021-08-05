@@ -14,7 +14,7 @@
         <img src="images/index.png" title="Tela Home"/>
       </p>
 
-- **Linguagens Usadas**
+- :computer: **Linguagens Usadas**
   
   1. Javascript
   2. CSS

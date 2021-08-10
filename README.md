@@ -4,7 +4,7 @@
 - :scroll: **Lista de Projetos**
 
   1. Sistema de Finanças: [Finances](https://github.com/joaovictorgit/Projetos/tree/master/finances)
-  2. API usando SpringBoot: [Sports Shop](http)
+  2. API usando SpringBoot: [Sports Shop](https://github.com/joaovictorgit/Projetos/tree/master/sports_shop)
   3. Jogo da memória: [memory game](https://github.com/joaovictorgit/Projetos/tree/master/memory_game)
   
 

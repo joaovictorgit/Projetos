@@ -3,7 +3,7 @@
 ## :clipboard: **Descrição**
   API usando SpringBoot que tem um template para observar o usuário consumir a API.
 
-- **Desenvolvedores**
+- :man_office_worker:**Desenvolvedores**
   
   1. [Lucas Alves]()
   

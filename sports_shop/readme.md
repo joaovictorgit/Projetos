@@ -3,6 +3,14 @@
 ## :clipboard: **Descrição**
   API usando SpringBoot que tem um template para observar o usuário consumir a API.
 
+- **Desenvolvedores**
+  
+  1. [Lucas Alves]()
+  
+  2. [João Victor](https://github.com/joaovictorgit?tab=repositories)
+
+  3. [Rayrisson Vinícius]()
+
 - :computer: **Linguagens**
   
   1. Java

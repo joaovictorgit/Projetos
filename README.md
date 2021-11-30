@@ -8,6 +8,8 @@
   - Jogo da memória: [memory game](https://github.com/joaovictorgit/Projetos/tree/master/memory_game)
 
   - Chat Cliente/Servidor: [chat](https://github.com/joaovictorgit/Projetos/tree/master/chat_cliente_servidor)
+
+  - Project Calculator flutter: [calculator](https://github.com/joaovictorgit/Projetos/tree/master/calculator)
   
 
 - :iphone: **Contato**

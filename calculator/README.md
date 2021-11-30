@@ -1,16 +1,28 @@
-# calculator
+<h1 align = "center"> Calculator </h1>
 
-A new Flutter project.
+<a href="https://github.com/joaovictorgit" alt="github" target="_blank">
 
-## Getting Started
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
 
-This project is a starting point for a Flutter application.
+</a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="joao:victoralmeida.0216@gmail.com" alt="gmail" target="_blank">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
+
+</a>
+
+
+
+## Descrição do Projeto
+
+<p >Projeto calculadora tem como objetivo, familiarizar-se com a linguagem flutter.</p>
+
+<h1 align="center">
+    <a href="https://flutter.dev/">🔗 Flutter</a>
+</h1>
+<p > 🚀 uma estrutura de código aberto do Google para a construção de aplicativos multiplataformas lindos, compilados nativamente a partir de uma única base de código.</p>
+
+
+
